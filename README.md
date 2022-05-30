@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JarvisGab
-- 👀 I’m interested in mobile app developing
-- 🌱 I’m currently learning some programming language
+- 👀 I’m interested in web system developing
+- 🌱 I’m currently learning some programming language like PHP
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
